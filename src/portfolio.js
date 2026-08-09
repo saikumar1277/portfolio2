@@ -157,6 +157,21 @@ const skills = {
 
 const degrees = {
   degrees: [
+      {
+      title: "SUNY Binghamton",
+      subtitle: "Master's in Computer Science",
+      logo_path: "",
+      alt_name: "SUNY Binghamton",
+      duration: "",
+      cgpa: ,
+      descriptions: [
+      " ⚡ I have worked on projects involving Full-Stack Development, Artificial Intelligence, Machine Learning, and Software Engineering."
+"⚡ I have gained hands-on experience with technologies like Next.js, React, TypeScript, Python, PostgreSQL, and OpenAI APIs."
+"⚡ I have built and deployed projects as part of my Master's coursework and personal learning."
+"⚡ I have focused on applying what I learn to real-world problems instead of only studying the theory."
+      ],
+      website_link: "https://www.cvr.ac.in/",
+    },
     {
       title: "CVR College of Engineering",
       subtitle: "B.Tech in Computer Science and Cyber Security",
@@ -300,18 +315,22 @@ const projects = {
     },
 
     {
-      name: "Portfolio",
-      url: "https://github.com/saikumar1277/Portfolio_Flask",
-      description: "(This) A clean and dynamic portfolio template.",
+      name: "Memic",
+      url: "https://github.com/saikumar1277/Memic,
+      description: "(This) AI Resume Writing Assistant",
       languages: [
         {
-          name: "flask",
+          name: "Nextjs",
           iconifyClass: "logos-flask",
         },
         {
-          name: "sql",
-          iconifyClass: "logos-sql",
+          name: "TypeScript",
+          iconifyClass: "logos-typescript",
         },
+        {
+          name:"Prisma",
+          iconifyClass: "logos-prisma"
+        }
       ],
     },
   ],
