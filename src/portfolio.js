@@ -160,7 +160,7 @@ const degrees = {
     {
       title: "SUNY Binghamton",
       subtitle: "Master's in Computer Science",
-      logo_path: "",
+      logo_path: "bing.png",
       alt_name: "SUNY Binghamton",
       duration: "",
       cgpa: "",
